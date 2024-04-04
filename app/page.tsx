@@ -6,7 +6,7 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full items-left justify-between font-mono text-sm lg:flex">
         <h1>
           {" "}
-          --- after gitub repo  2222-- Next.js version 14.1 simple site - update
+          --- after gitub repo 2222-- Next.js version 14.1 simple site - update
           333aaaaaaa chrome. .
         </h1>
         <h2> edit from firefox 12221 </h2>
